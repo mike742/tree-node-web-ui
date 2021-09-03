@@ -25,6 +25,7 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
+    "@circlon/angular-tree-component": "^11.0.4",
     "@syncfusion/ej2-angular-inplace-editor": "^19.2.55",
     "angular-xeditable": "^0.10.2",
     "bootstrap": "^4.6.0",
