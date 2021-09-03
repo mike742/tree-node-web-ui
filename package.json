@@ -8,19 +8,17 @@
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
-    "build": "ng build --prod",
+    "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "heroku-postinstall": "ng build --prod"
+    "heroku-postinstall": "ng build"
   },
   "private": true,
   "dependencies": {
     "@angular/animations": "~12.2.0",
     "@angular/cdk": "^12.2.4",
-    "@angular/cli": "^12.2.4",
     "@angular/common": "~12.2.0",
     "@angular/compiler": "~12.2.0",
-    "@angular/compiler-cli": "^12.2.4",
     "@angular/core": "~12.2.0",
     "@angular/forms": "~12.2.0",
     "@angular/material": "^12.2.4",
